@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Release](https://img.shields.io/github/v/release/QYCottage/BetterRenderDragon?label=Release)
+[![Release](https://img.shields.io/github/v/release/QYCottage/BetterRenderDragon?label=Release)](https://github.com/QYCottage/BetterRenderDragon/releases/latest)
 ![Total Downloads](https://img.shields.io/github/downloads/QYCottage/BetterRenderDragon/total?label=Total%20Downloads)
 ![Latest Release Downloads](https://img.shields.io/github/downloads/QYCottage/BetterRenderDragon/latest/total?label=Latest%20Downloads)
 ![Stars](https://img.shields.io/github/stars/QYCottage/BetterRenderDragon?label=Stars)

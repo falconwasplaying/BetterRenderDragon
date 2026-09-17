@@ -1,6 +1,6 @@
 <p align="right">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/Switch%20to-English%20Documentation-blue?style=flat-square&logo=googletranslate&labelColor=3e3e3e" alt="Switch to English" />
+    <img src="https://img.shields.io/badge/Switch%20to-English%20Documentation-blue?logo=googletranslate&labelColor=3e3e3e" alt="Switch to English" />
   </a>
 </p>
 
@@ -10,13 +10,13 @@
 
 <div align="center">
 
-![Release](https://img.shields.io/github/v/release/QYCottage/BetterRenderDragon?style=flat-square)
-![Total Downloads](https://img.shields.io/github/downloads/QYCottage/BetterRenderDragon/total?style=flat-square)
-![Latest Release Downloads](https://img.shields.io/github/downloads/QYCottage/BetterRenderDragon/latest/total?style=flat-square)
-![Stars](https://img.shields.io/github/stars/QYCottage/BetterRenderDragon?style=flat-square)
-![Forks](https://img.shields.io/github/forks/QYCottage/BetterRenderDragon?style=flat-square)
-![License](https://img.shields.io/github/license/QYCottage/BetterRenderDragon?style=flat-square)
-[![Discord](https://img.shields.io/discord/1124235469245382698?style=flat-square&logo=discord)](https://discord.gg/8nGcV8QkKZ)
+![Release](https://img.shields.io/github/v/release/QYCottage/BetterRenderDragon?label=Release)
+![Total Downloads](https://img.shields.io/github/downloads/QYCottage/BetterRenderDragon/total?label=Total%20Downloads)
+![Latest Release Downloads](https://img.shields.io/github/downloads/QYCottage/BetterRenderDragon/latest/total?label=Latest%20Downloads)
+![Stars](https://img.shields.io/github/stars/QYCottage/BetterRenderDragon?label=Stars)
+![Forks](https://img.shields.io/github/forks/QYCottage/BetterRenderDragon?label=Forks)
+![License](https://img.shields.io/github/license/QYCottage/BetterRenderDragon?label=License)
+[![Discord](https://img.shields.io/discord/1124235469245382698?logo=discord&label=Discord)](https://discord.gg/8nGcV8QkKZ)
 
 </div>
 
@@ -133,7 +133,7 @@
 
 加入我们的 Discord 社区获取技术支持和交流！
 
-[加入 Discord](https://discord.gg/8nGcV8QkKZ)
+[![Discord Banner](./.github/assets/discord_banner.png)](https://discord.gg/8nGcV8QkKZ)
 
 ---
 

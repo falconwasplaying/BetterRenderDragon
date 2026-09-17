@@ -4,11 +4,11 @@
   </a>
 </p>
 
-# 🚀 BetterRenderDragon
-
-**Add more features to RenderDragon! Compatible with Minecraft Bedrock Edition 26.4X**
-
 <div align="center">
+
+# BetterRenderDragon
+
+**Add more features to RenderDragon! Compatible with Minecraft: Bedrock Edition 26.4x**
 
 ![Release](https://img.shields.io/github/v/release/QYCottage/BetterRenderDragon?style=flat-square)
 ![Total Downloads](https://img.shields.io/github/downloads/QYCottage/BetterRenderDragon/total?style=flat-square)
@@ -22,21 +22,18 @@
 
 ---
 
-## ✨ Features
+## Features
 
-- ⚡ **Force Enable Vibrant Visuals on severs**
-- 🎨 **Load RenderDragon Shaders from Resource Packs**
-- 🔄 **Hot-Reload RenderDragon Shaders**
-- 🛠️ **Configurable ImGui Interface**
+- **Force Enable Vibrant Visuals on Servers**
+- **Load RenderDragon Shaders from Resource Packs**
+- **Hot-Reload RenderDragon Shaders**
+- **Configurable ImGui Interface**
 
----
+## How to Install
 
-## 📝 How to Install
-
----
 ### Universal method
 
-1. **Make sure your minecraft version is supported currently versions 26.4X are supported**
+1. **Make sure your minecraft version is supported currently versions 26.4x are supported**
 
 2. **Download Files**
 
@@ -45,21 +42,20 @@
 
 3. **Adding BetterRenderDragon to the injector**
 
-    - Open your injector.
-    - Click `Select`.
-    - Find the BetterRenderDragon.dll file we downloaded and double click it.
+    - Open your injector
+    - Click `Select`
+    - Find the BetterRenderDragon.dll file we downloaded and double click it
 
 4. **Launch the game**
     - Open Minecraft
     - Click the inject button in your injector
     - Enjoy!
 
+### If you are using [LeviLauncher](https://github.com/LiteLDev/LeviLauncher)
 
-### If you are using [LeviLauncher](https://github.com/LiteLDev/LeviLauncher/tree/main)
+1. **Make sure your Minecraft Version is supported, current latest supported version is 26.4x**
 
-1. **Make sure your minecraft version is supported currently versions 26.2X is supported**
-
-2. **Download [BetterRenderDragon.dll](#)**
+2. **Download BetterRenderDragon.dll**
 
     - Download from the [Releases](https://github.com/QYCottage/BetterRenderDragon/releases/latest) page.
 
@@ -72,9 +68,7 @@
 
 4. **Launch the game and enjoy!**
 
-
-
-## ❓ FAQ
+## FAQ
 
 - **My antivirus blocked BetterRenderDragon, what should I do?**
 
@@ -90,9 +84,9 @@
 
 ---
 
-## 🤝 Credits
+## Credits
 
-- [Original authors](https://github.com/ddf8196/BetterRenderDragon)
+- [Original Project](https://github.com/ddf8196/BetterRenderDragon)
 - [DreamGuXiang](https://github.com/dreamguxiang)
 - [StoneHunter](https://github.com/st0nehunter)
 - [MCBE-DLL-Menu by h-arvs](https://github.com/h-arvs/MCBE-DLL-Menu)
@@ -101,7 +95,7 @@
 
 ## 📬 Contact & Feedback
 
-If you encounter any issues or have suggestions, please [open an Issue](https://github.com/QYCottage/BetterRenderDragon/issues).
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/QYCottage/BetterRenderDragon/issues).
 
 ---
 
